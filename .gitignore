@@ -1,0 +1,13 @@
+S.gpg-agent
+pubring.kbx
+S.gpg-agent.browser
+gpg-agent.log
+random_seed
+S.gpg-agent.extra
+reader_0.status
+S.gpg-agent.ssh
+private-keys-v1.d
+sshcontrol
+S.scdaemon
+trustdb.gpg
+*.*~
